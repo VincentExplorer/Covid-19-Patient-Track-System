@@ -1,4 +1,4 @@
-//Covid-19 Patient Management System applying OOP concepts
+//Covid-19 Patient Tracking System applying OOP concepts
 //OOP Concepts applied: Classes and Objects, Access Specifiers, Encapsulation
 
 //Libraries
